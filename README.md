@@ -6,6 +6,6 @@ hello
 
 yesterday
 
-all 
+all
 
-my problems
+my problems seems so far away
